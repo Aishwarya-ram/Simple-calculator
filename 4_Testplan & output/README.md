@@ -1,5 +1,5 @@
 # Simple Calculator 
--
+
 
 | Sl.No | Test scenario| Test data |
 |:----|:------------|:--------|
