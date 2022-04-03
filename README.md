@@ -19,3 +19,7 @@
 
 * C-cpp
 [![cppcheck-action](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/c-cpp.yml)
+
+
+* Valgrind
+[![Valgrind](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/valgrind.yml)
