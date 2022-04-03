@@ -23,3 +23,7 @@
 
 * Valgrind
 [![Valgrind](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/valgrind.yml)
+
+
+* Gitinspector
+[![Contribution Check - Git Inspector](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Aishwarya-ram/Simple-calculator/actions/workflows/gitinspector.yml)
