@@ -5,7 +5,8 @@
 
 ## Badges
 
-
+* Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f4bc41665dd041af9e3f744830bb6418)](https://www.codacy.com/gh/Aishwarya-ram/Simple-calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aishwarya-ram/Simple-calculator&amp;utm_campaign=Badge_Grade)
 
 
 
